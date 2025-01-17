@@ -17,8 +17,8 @@ To install the application and its dependencies, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone <repository-url>
-   cd goit-node-rest-api
+   git clone https://github.com/artanton/test-task-develops-today.git
+   cd <your folder>
 
 2. Install the dependencies:
 npm install
@@ -37,6 +37,7 @@ BASE_URL
 
 ## Running the Application
 To run the application in development mode with live reloading (using nodemon), use the following command:
+
 npm run dev
 
 This will start the server on port 4000, as defined in the .env file.
